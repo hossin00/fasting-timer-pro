@@ -1,0 +1,27 @@
+{
+  "name": "Fasting Timer Pro",
+  "short_name": "Fasting",
+  "description": "Intermittent fasting tracker with window analytics.",
+  "start_url": "/fasting-timer-pro/",
+  "scope": "/fasting-timer-pro/",
+  "display": "standalone",
+  "background_color": "#080a0f",
+  "theme_color": "#f97316",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/fasting-timer-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/fasting-timer-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
